@@ -18,9 +18,6 @@
     "type": "git",
     "url": "https://github.com/sapbuild/AngularUITree.git"
   },
-  "publishConfig": {
-    "registry": "http://build-npm.mo.sap.corp:8080"
-  },
   "licenses": [
     {
       "type": "MIT"
