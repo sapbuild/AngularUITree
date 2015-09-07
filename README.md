@@ -1,3 +1,8 @@
+[![Build](https://img.shields.io/travis/sapbuild/norman-angular-ui-tree.svg?style=flat-square)](http://travis-ci.org/sapbuild/norman-angular-ui-tree)
+[![Version](https://img.shields.io/npm/v/norman-angular-ui-tree.svg?style=flat-square)](https://npmjs.org/package/norman-angular-ui-tree)
+[![Dependency Status](https://david-dm.org/sapbuild/norman-angular-ui-tree.svg)](https://david-dm.org/sapbuild/norman-angular-ui-tree)
+[![devDependency Status](https://david-dm.org/sapbuild/norman-angular-ui-tree/dev-status.svg)](https://david-dm.org/sapbuild/norman-angular-ui-tree#info=devDependencies)
+[![Coverage](https://img.shields.io/coveralls/sapbuild/norman-angular-ui-tree/master.svg?style=flat-square)](https://coveralls.io/r/sapbuild/norman-angular-ui-tree?branch=master)
 norman-angular-ui-tree
 ======================
 
